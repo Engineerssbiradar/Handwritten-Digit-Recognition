@@ -1,6 +1,6 @@
 # Handwritten-Digit-Recognition
 Artificial Intelligence Internship (SYNC INTERN'S) ,Task-2
-
+Dataset used: https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset
 # Run in development
 * Html side: `npx live-server .`
 * Model side: Run in colab
